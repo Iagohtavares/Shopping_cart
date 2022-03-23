@@ -1,5 +1,7 @@
 # Shopping_cart
 
+Uma versão simplificada de um site de vendas, onde é possivel adicionar produtos ao carrinho, verificar se tem quantidade suficiente em estoque e verificar a quantidade dos produtos no carrinho. 
+
 
 ## Quais tecnologias utilizadas?
 
