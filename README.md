@@ -28,6 +28,6 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Instalar as dependencias do projeto com o comando:
+Instalar as dependencias do projeto com comando:
 ```
 \$ yarn
