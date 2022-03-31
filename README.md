@@ -28,6 +28,14 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Instalar as dependencias do projeto com comando:
+Após concluir as instalações das dependencias, serão necessários dois terminais de comando. No primeiro terminal utilize o comando:
 ```
-\$ yarn
+\$ yarn dev
+```
+
+Já no segundo terminal, utilize o comando:
+```
+\$ yarn server
+```
+
+Com ambos os terminais abertos e executando os comandos supracitados, basta acessar: http://localhost:3000/ e ser feliz. Aproveite!
