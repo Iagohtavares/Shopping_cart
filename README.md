@@ -27,6 +27,10 @@ Instalar as dependencias do projeto com o comando:
 ```
 \$ yarn
 ```
+Para testar o projeto, utilize o comando:
+```
+\$ yarn test
+```
 
 Após concluir as instalações das dependencias, serão necessários dois terminais de comando. No primeiro terminal utilize o comando:
 ```
