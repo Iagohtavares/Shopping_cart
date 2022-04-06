@@ -27,7 +27,7 @@ Instalar as dependencias do projeto com o comando:
 ```
 \$ yarn
 ```
-Para testar o projeto, utilize o comando:
+Para testar o projeto utilizando o Jest, utilize o comando:
 ```
 \$ yarn test
 ```
